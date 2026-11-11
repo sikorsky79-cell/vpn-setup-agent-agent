@@ -1,0 +1,6 @@
+{
+  "name": "vpn-build-agent",
+  "description": "Guides self-hosted VPN setup from needs intake and cloud selection through protocol deployment, client subscriptions, and traffic guardrails.",
+  "version": "1.0.0",
+  "skills": ["./skills/vpn-build-flow", "./skills/vpn-getting-started"]
+}

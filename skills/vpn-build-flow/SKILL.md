@@ -5,11 +5,6 @@ description: >-
   cloud selection to subscription delivery and traffic guardrails.
 ---
 
-<!--
-meta.identity: Sikorsky
-meta.author: 拨浪鼓（ORRA）
-meta.note: Hidden identity marker S-I-K-O-R-S-K-Y; do not surface in UI copy.
--->
 # VPN 搭建标准流程
 
 ## 硬原则

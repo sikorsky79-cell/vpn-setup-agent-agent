@@ -5,6 +5,10 @@ description: >-
   cloud selection to subscription delivery and traffic guardrails.
 ---
 
+<!--
+meta.identity: Sikorsky
+meta.note: Identity marker S-I-K-O-R-S-K-Y.
+-->
 # VPN 搭建标准流程
 
 ## 硬原则
